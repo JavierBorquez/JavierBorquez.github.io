@@ -1,0 +1,22 @@
+# Javier Borquez
+
+> Postdoctoral Research Associate in the Safe Robotics Lab at Princeton University. PhD in Electrical and Computer Engineering from USC. Research focus: safety and control for autonomous systems.
+
+Javier Borquez completed his PhD as the first doctoral graduate of the Safe and Intelligent Autonomy Lab (USC, now at Stanford University), advised by Somil Bansal. He is currently a Postdoctoral Research Associate in the Safe Robotics Lab at Princeton University (https://saferobotics.princeton.edu/).
+
+## Publications
+
+- Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees. The International Journal of Robotics Research, 2026. https://journals.sagepub.com/doi/10.1177/02783649261477777
+- Timely Activation of Safety Filters via One-Step Reachability Expansion. ICCAR 2026 (Best Oral Presentation). https://ieeexplore.ieee.org/abstract/document/11549591
+- DualGuard MPPI - Safe Optimal Control via Sampling MPC and HJ Reachability. IEEE Robotics and Automation Letters, 2025. https://ieeexplore.ieee.org/document/10994404
+- On Safety and Liveness Filtering Using Hamilton-Jacobi Reachability Analysis. IEEE Transactions on Robotics, 2024. https://ieeexplore.ieee.org/abstract/document/10665911
+- Hamilton-Jacobi Reachability Analysis for Hybrid Systems with Controlled and Forced Transitions. Robotics: Science and Systems XX, 2024. https://www.roboticsproceedings.org/rss20/p006.html
+- Providing Safety Assurances for Systems With Unknown Dynamics. IEEE Control Systems Letters, 2024. https://ieeexplore.ieee.org/abstract/document/10543106
+- Parameter-Conditioned Reachable Sets for Updating Safety Assurances Online. ICRA 2023. https://ieeexplore.ieee.org/document/10160554
+
+## Links
+
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=QXK0j8EAAAAJ
+- GitHub: https://github.com/JavierBorquez
+- LinkedIn: https://www.linkedin.com/in/javier-b%C3%B3rquez-352683286/
+- CV: https://javierborquez.github.io/assets/cv/Javier_Borquez_CV.pdf
